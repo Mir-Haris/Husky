@@ -1,2 +1,1 @@
 npm test
-ng tests --watch=false
